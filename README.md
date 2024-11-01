@@ -6,15 +6,15 @@
 <h4>Exam Page</h4>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382221918-d9816836-6a85-4710-811f-7bd97e0232ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080808Z&X-Amz-Expires=300&X-Amz-Signature=e9ec06164c9ef05d3ba3c4596a9d77c43453c5f96bb7cf8473cea45368d35cfe&X-Amz-SignedHeaders=host">
 <h4>NIMCET Page</h4>
-![image](https://github.com/user-attachments/assets/a741ad7f-cecb-48e2-94f8-bd362f1df751)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222137-a741ad7f-cecb-48e2-94f8-bd362f1df751.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080831Z&X-Amz-Expires=300&X-Amz-Signature=39a72410641354130eaf1d13e9f77faac0162c13c2c00072cec5441a263da41a&X-Amz-SignedHeaders=host">
 <h4>Mock Test Page</h4>
-![image](https://github.com/user-attachments/assets/048d9db8-cc32-4f2e-b943-f31d3b89f8f3)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222216-b8ef0f2a-a17a-45a8-b66b-3f8f4c436599.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080847Z&X-Amz-Expires=300&X-Amz-Signature=cf3136e0c0864932c17803bc8b9794c82fa88d27763e2cc34e2bb712c2032b57&X-Amz-SignedHeaders=host">
 <h4>About us</h4>
-![image](https://github.com/user-attachments/assets/b8ef0f2a-a17a-45a8-b66b-3f8f4c436599)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222268-cfef8ef2-acb7-4e5f-9962-e0f5ac93e978.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080909Z&X-Amz-Expires=300&X-Amz-Signature=cd62a06742cc6485cb7bd058d7cd079e3a1fb24446b0cadb14c71a58f81de45b&X-Amz-SignedHeaders=host">
 <h4>Bookmark Page</h4>
-![image](https://github.com/user-attachments/assets/cfef8ef2-acb7-4e5f-9962-e0f5ac93e978)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222268-cfef8ef2-acb7-4e5f-9962-e0f5ac93e978.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080909Z&X-Amz-Expires=300&X-Amz-Signature=cd62a06742cc6485cb7bd058d7cd079e3a1fb24446b0cadb14c71a58f81de45b&X-Amz-SignedHeaders=host
+">
 <h4>Question of the day</h4>
-![image](https://github.com/user-attachments/assets/fa0a7045-c9d6-4bbb-8d9f-44444fe8d087)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222303-fa0a7045-c9d6-4bbb-8d9f-44444fe8d087.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080925Z&X-Amz-Expires=300&X-Amz-Signature=3fa8139ef9d90974b386634890b18e8226590793b0166df4717a3ccdcf05a23e&X-Amz-SignedHeaders=host">
 <h4>Goals</h4>
-![image](https://github.com/user-attachments/assets/d9b97000-055b-4e3a-9691-6e78000b4f84)
-
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222329-d9b97000-055b-4e3a-9691-6e78000b4f84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080957Z&X-Amz-Expires=300&X-Amz-Signature=d34f59971042d04b10723ebd8fc25992dd7db597e6d598356ef519da926ccb99&X-Amz-SignedHeaders=host">
