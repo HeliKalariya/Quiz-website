@@ -17,3 +17,15 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222303-fa0a7045-c9d6-4bbb-8d9f-44444fe8d087.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080925Z&X-Amz-Expires=300&X-Amz-Signature=3fa8139ef9d90974b386634890b18e8226590793b0166df4717a3ccdcf05a23e&X-Amz-SignedHeaders=host"><br>
 <h4>Goals</h4>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382222329-d9b97000-055b-4e3a-9691-6e78000b4f84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080957Z&X-Amz-Expires=300&X-Amz-Signature=d34f59971042d04b10723ebd8fc25992dd7db597e6d598356ef519da926ccb99&X-Amz-SignedHeaders=host">
+
+
+![image](https://github.com/user-attachments/assets/84a9f7e6-0b2a-4c42-859e-87e0f7270d6b)
+![image](https://github.com/user-attachments/assets/69b71589-4956-4fff-89f3-3ce2beb39e12)
+![image](https://github.com/user-attachments/assets/1113ce10-7742-45c7-846d-b01fe0549477)
+![image](https://github.com/user-attachments/assets/e6fb60de-12d5-4afc-8d1d-1dcd0f718dcb)
+![image](https://github.com/user-attachments/assets/611ceb99-3593-46a8-b653-deea11e06714)
+![image](https://github.com/user-attachments/assets/f8542597-8a9b-4aa5-bd55-76c76195bbec)
+![image](https://github.com/user-attachments/assets/e9ff0194-b5c1-43cf-b9f8-5cc41935cd18)
+![image](https://github.com/user-attachments/assets/f54b2dc0-a5f6-498a-be72-b031bbf1dfdb)
+
+
