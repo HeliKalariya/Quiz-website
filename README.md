@@ -4,7 +4,7 @@
 <h4>Home Page</h4>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382221663-1d6470a5-39ab-44ee-a9a6-d7e615d0c1cb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080025Z&X-Amz-Expires=300&X-Amz-Signature=d8f648e30e9ccee5cbd573f413ba1ae1176484301c040973953d7a8958c58221&X-Amz-SignedHeaders=host"><br>
 <h4>Exam Page</h4>
-![image](https://github.com/user-attachments/assets/d9816836-6a85-4710-811f-7bd97e0232ab)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/181923514/382221918-d9816836-6a85-4710-811f-7bd97e0232ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241101T080808Z&X-Amz-Expires=300&X-Amz-Signature=e9ec06164c9ef05d3ba3c4596a9d77c43453c5f96bb7cf8473cea45368d35cfe&X-Amz-SignedHeaders=host">
 <h4>NIMCET Page</h4>
 ![image](https://github.com/user-attachments/assets/a741ad7f-cecb-48e2-94f8-bd362f1df751)
 <h4>Mock Test Page</h4>
