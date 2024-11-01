@@ -1,7 +1,7 @@
 <h2>Master's Prep Quiz</h2>
 <br>
 <p>Master's Prep Quiz is a full-stack web application designed to help users improve their knowledge and skills by taking quizzes.This is mainly for user who are preparing for master's degree competitive entrance exams. </p>
-<br>
+
 ![image](https://github.com/user-attachments/assets/84a9f7e6-0b2a-4c42-859e-87e0f7270d6b)
 
 ![image](https://github.com/user-attachments/assets/69b71589-4956-4fff-89f3-3ce2beb39e12)
